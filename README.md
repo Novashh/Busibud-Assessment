@@ -1,6 +1,6 @@
 # Busibud-Assessment
 
-Eight sections of a whole page with a navigation menu made with HTML and SCSS with responsive design
+Eight sections of a whole page with a navigation menu made with HTML and CSS/SCSS with responsive design
 
 ![2023-04-20 (6)](https://user-images.githubusercontent.com/113760661/235850168-ae8376fd-7fa0-4919-a74f-edd8170575bd.png)
 
